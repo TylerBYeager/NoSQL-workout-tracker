@@ -11,6 +11,8 @@
   ## Description  
   This is a Workout/Fitness Tracker built using NoSQL (Mongodb & Mongoose) on the back end. User's are able to create workouts comprised of multiple resistance or cardio exercises. The app takes the input information and provides total stats back to the user. 
 
+![Snapshot1](https://raw.githubusercontent.com/TylerBYeager/NoSQL-workout-tracker/main/public/images/Snapshot1.png)
+
   ## Code Snippets
   Here are some code snippets and what they accomplished. This first snippet is the models/Workout.js file. This is what I used to create my Workouts model that included exercises. This utilized mongoose in order to create the schema as this is a NoSQL project. 
   ```
@@ -120,6 +122,8 @@
 
   ## Usage
   This app can be used to keep track of one's workouts. Allows a user to check total time spent working out, total weight lifted, and total distance covered for cardio exercises.  
+  
+ ![Snapshot2](https://raw.githubusercontent.com/TylerBYeager/NoSQL-workout-tracker/main/public/images/Snapshot2.png)
 
   ## Built With
   * [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
