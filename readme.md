@@ -141,7 +141,7 @@
 
 * **Tyler Brian Yeager**
 
-- [Link to Repo Site](https://github.com/TylerBYeager/Handy-Man)
+- [Link to Repo Site](https://github.com/TylerBYeager/NoSQL-workout-tracker)
 - [Link to My Github](https://github.com/TylerBYeager)
 - [Link to My LinkedIn](https://www.linkedin.com/in/tyler-yeager-611926213/)
 
